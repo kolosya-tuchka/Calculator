@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-22T08:31:55.570698300Z</date>
+  <millis>1677054715570</millis>
+  <nanos>698300</nanos>
+  <sequence>0</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Calculator constructed</message>
+</record>
+<record>
+  <date>2023-02-22T08:31:55.633182600Z</date>
+  <millis>1677054715633</millis>
+  <nanos>182600</nanos>
+  <sequence>1</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Calculator initialized</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:04.586693100Z</date>
+  <millis>1677054724586</millis>
+  <nanos>693100</nanos>
+  <sequence>2</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 1:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:04.602057300Z</date>
+  <millis>1677054724602</millis>
+  <nanos>57300</nanos>
+  <sequence>3</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command define c 10 successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:06.014757200Z</date>
+  <millis>1677054726014</millis>
+  <nanos>757200</nanos>
+  <sequence>4</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 2:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:06.014757200Z</date>
+  <millis>1677054726014</millis>
+  <nanos>757200</nanos>
+  <sequence>5</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command push c successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:07.661682800Z</date>
+  <millis>1677054727661</millis>
+  <nanos>682800</nanos>
+  <sequence>6</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 3:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:07.661682800Z</date>
+  <millis>1677054727661</millis>
+  <nanos>682800</nanos>
+  <sequence>7</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command push c successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:09.315121200Z</date>
+  <millis>1677054729315</millis>
+  <nanos>121200</nanos>
+  <sequence>8</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 4:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:09.315121200Z</date>
+  <millis>1677054729315</millis>
+  <nanos>121200</nanos>
+  <sequence>9</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command mul successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:10.602842100Z</date>
+  <millis>1677054730602</millis>
+  <nanos>842100</nanos>
+  <sequence>10</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 5:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:10.602842100Z</date>
+  <millis>1677054730602</millis>
+  <nanos>842100</nanos>
+  <sequence>11</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command sqrt successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:11.786527500Z</date>
+  <millis>1677054731786</millis>
+  <nanos>527500</nanos>
+  <sequence>12</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 6:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:11.786527500Z</date>
+  <millis>1677054731786</millis>
+  <nanos>527500</nanos>
+  <sequence>13</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command print successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:14.079681200Z</date>
+  <millis>1677054734079</millis>
+  <nanos>681200</nanos>
+  <sequence>14</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>WARNING</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Error in line 7</message>
+  <exception>
+    <message>com.kolosya.calculator.exceptions.CalculatorInputException: Invalid count of arguments in stack. Expected 2 but got 1.</message>
+    <frame>
+      <class>com.kolosya.calculator.operators.BaseOperator</class>
+      <method>validateAndGet</method>
+      <line>18</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.operators.BaseScalarOperator</class>
+      <method>validateAndGet</method>
+      <line>12</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.operators.PlusOperator</class>
+      <method>perform</method>
+      <line>13</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.ScalarCalculator</class>
+      <method>process_command</method>
+      <line>76</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.ScalarCalculator</class>
+      <method>init</method>
+      <line>42</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.Main</class>
+      <method>main</method>
+      <line>19</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-02-22T08:32:14.095033300Z</date>
+  <millis>1677054734095</millis>
+  <nanos>33300</nanos>
+  <sequence>15</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 7:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:14.095033300Z</date>
+  <millis>1677054734095</millis>
+  <nanos>33300</nanos>
+  <sequence>16</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command sum successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:15.903492Z</date>
+  <millis>1677054735903</millis>
+  <nanos>492000</nanos>
+  <sequence>17</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>WARNING</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Error in line 8</message>
+  <exception>
+    <message>com.kolosya.calculator.exceptions.CalculatorInputException: Invalid count of arguments in stack. Expected 2 but got 1.</message>
+    <frame>
+      <class>com.kolosya.calculator.operators.BaseOperator</class>
+      <method>validateAndGet</method>
+      <line>18</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.operators.BaseScalarOperator</class>
+      <method>validateAndGet</method>
+      <line>12</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.operators.DivOperator</class>
+      <method>validateAndGet</method>
+      <line>14</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.operators.DivOperator</class>
+      <method>perform</method>
+      <line>23</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.ScalarCalculator</class>
+      <method>process_command</method>
+      <line>76</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.calculator.ScalarCalculator</class>
+      <method>init</method>
+      <line>42</line>
+    </frame>
+    <frame>
+      <class>com.kolosya.Main</class>
+      <method>main</method>
+      <line>19</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-02-22T08:32:15.903492Z</date>
+  <millis>1677054735903</millis>
+  <nanos>492000</nanos>
+  <sequence>18</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 8:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:15.903492Z</date>
+  <millis>1677054735903</millis>
+  <nanos>492000</nanos>
+  <sequence>19</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command div successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:19.293562Z</date>
+  <millis>1677054739293</millis>
+  <nanos>562000</nanos>
+  <sequence>20</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>In line 9:</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:19.293562Z</date>
+  <millis>1677054739293</millis>
+  <nanos>562000</nanos>
+  <sequence>21</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Command exit successfully performed</message>
+</record>
+<record>
+  <date>2023-02-22T08:32:19.293562Z</date>
+  <millis>1677054739293</millis>
+  <nanos>562000</nanos>
+  <sequence>22</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Done!</message>
+</record>
+</log>

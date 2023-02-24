@@ -1,0 +1,15 @@
++ com.kolosya.calculator.operators.PlusOperatorCreator
+sum com.kolosya.calculator.operators.PlusOperatorCreator
+- com.kolosya.calculator.operators.SubOperatorCreator
+sub com.kolosya.calculator.operators.SubOperatorCreator
+* com.kolosya.calculator.operators.MulOperatorCreator
+mul com.kolosya.calculator.operators.MulOperatorCreator
+/ com.kolosya.calculator.operators.DivOperatorCreator
+div com.kolosya.calculator.operators.DivOperatorCreator
+sqrt com.kolosya.calculator.operators.SqrtOperatorCreator
+define com.kolosya.calculator.operators.DefineOperatorCreator
+push com.kolosya.calculator.operators.PushOperatorCreator
+pop com.kolosya.calculator.operators.PopOperatorCreator
+print com.kolosya.calculator.operators.PrintOperatorCreator
+exit com.kolosya.calculator.operators.ExitOperatorCreator
+quit com.kolosya.calculator.operators.ExitOperatorCreator

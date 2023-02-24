@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-22T08:46:05.331493600Z</date>
+  <millis>1677055565331</millis>
+  <nanos>493600</nanos>
+  <sequence>0</sequence>
+  <logger>com.kolosya.calculator</logger>
+  <level>FINE</level>
+  <class>com.kolosya.calculator.ScalarCalculator</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Calculator constructed</message>
+</record>
+</log>
